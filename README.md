@@ -46,3 +46,8 @@ src/
 ## Deploy
 - **Vercel:** import the repo → framework "Vite" → deploy.
 - **GitHub Pages:** `npm run build`, publish `dist/` (build uses relative base `./`).
+
+## Live Demo
+
+<img width="1366" height="768" alt="Screenshot (511)" src="https://github.com/user-attachments/assets/cf438133-f63e-4793-842e-59c90deb8f1b" />
+
